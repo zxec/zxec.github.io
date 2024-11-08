@@ -1,5 +1,7 @@
 export default defineNuxtConfig({
   app: {
+    baseURL: '/zxec.github.io/',
+    buildAssetsDir: 'assets',
     head: {
       link: [
         { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css' },
