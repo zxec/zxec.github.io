@@ -1,1 +1,0 @@
-import{_ as t,q as n,o as r,s,w as _,V as a,U as c}from"./BRaYK_H4.js";const l={};function p(o,m){const e=n("v-btn");return r(),s(e,c({color:"primary",height:"54",rounded:"lg"},o.$attrs),{default:_(()=>[a(o.$slots,"default")]),_:3},16)}const f=t(l,[["render",p]]);export{f as _};
