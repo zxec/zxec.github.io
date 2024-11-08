@@ -1,0 +1,7 @@
+@use 'vuetify/settings' with (
+    $button-height: 400px,
+    $expansion-panel-text-padding: 0px,
+    $font-size-root: 72px,
+    $switch-width: 400px,
+    $switch-track-width: 400px
+);

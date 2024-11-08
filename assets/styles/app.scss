@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'Nunito Regular';
+  src: url('../fonts/Nunito-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Nunito Medium';
+  src: url('../fonts/Nunito-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Nunito Bold';
+  src: url('../fonts/Nunito-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Nunito SemiBold';
+  src: url('../fonts/Nunito-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'Nunito Extrabold';
+  src: url('../fonts/Nunito-ExtraBold.ttf');
+}
+
+body {
+  font-family: 'Nunito Regular';
+  font-size: 18px;
+  color: #414141;
+}
+
+h1.h1-1 {
+  font-family: 'Nunito Bold';
+  font-size: 28px;
+}
+
+h1.h1-2 {
+  font-family: 'Nunito Semibold';
+  font-size: 36px;
+}
+
+h2 {
+  font-family: 'Nunito Extrabold';
+  font-size: 24px;
+}
+
+h3 {
+  font-family: 'Nunito Extrabold';
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Nunito Medium';
+  font-size: 18px;
+}
+
+p,b {
+  font-family: 'Nunito Bold';
+  font-size: 18px;
+}
+
+.v-btn {
+  font-family: 'Nunito Bold';
+}
+
+.text-caption {
+  font-family: 'Nunito Regular' !important;
+}
+
+a {
+  color: unset;
+}
+
+.p-small {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 19px;
+
+  color: #414141CC;
+}
