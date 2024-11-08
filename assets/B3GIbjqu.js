@@ -1,0 +1,1 @@
+import{_ as r,q as s,o as a,s as _,w as o,V as n,U as c}from"./BRaYK_H4.js";const l={};function p(e,d){const t=s("v-text-field");return a(),_(t,c({variant:"outlined",color:"primary",rounded:"lg","bg-color":"#4444440A"},e.$attrs),{"append-inner":o(()=>[n(e.$slots,"append-inner")]),default:o(()=>[n(e.$slots,"default")]),_:3},16)}const f=r(l,[["render",p]]);export{f as _};
