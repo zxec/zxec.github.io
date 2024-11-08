@@ -1,6 +1,5 @@
 export default defineNuxtConfig({
   app: {
-    baseURL: '/zxec.github.io/',
     buildAssetsDir: 'assets',
     head: {
       link: [
